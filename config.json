@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configpync",
+        "uuid": 8178417,
+        "checksum": "keh04j"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
